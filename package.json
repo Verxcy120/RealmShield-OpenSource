@@ -1,0 +1,17 @@
+{
+  "name": "realmshield-opensource",
+  "version": "1.0.0",
+  "description": "An open-sourced version of RealmShield, Produced by Verxcy120.",
+  "main": "index.js",
+  "author": "Verxcy120.",
+  "license": "CC BY-NC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "bedrock-protocol": "^3.34.0",
+    "chartjs-node-canvas": "^4.1.6",
+    "colors": "^1.4.0",
+    "discord.js": "^14.16.3",
+    "prismarine-auth": "^2.4.1",
+    "uuid": "^9.0.1"
+  }
+}

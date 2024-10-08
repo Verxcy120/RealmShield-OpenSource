@@ -1,0 +1,35 @@
+{
+    "clientId": "YOUR CLIENTID",
+    "botToken": "YOUR BOT TOKEN",
+    "username": "RealmShield",
+    "realms": [
+      {
+        "realmName": "YOUR REALM NAME",
+        "realmCode": "YOUR REALM CODE",
+        "logChannels": {
+          "chat": "YOUR_CHAT_CHANNEL_ID",
+          "kicks": "YOUR_KICK_CHANNEL_ID",
+          "joinsAndLeaves": "YOUR_JOIN_LEAVE_CHANNEL_ID"
+        },
+        "modules": {
+          "deviceFilter": true
+        },
+        "authToken": "YOUR_REALMS_API_TOKEN"
+      }
+    ],
+    "admins": [
+      "YOUR_ADMIN_USER_ID"
+    ],
+    "whitelist": [
+      "YOUR BOT IGN"
+    ],
+    "bannedDevices": [
+      "Windows",
+      "Android",
+      "WindowsPhone",
+      "Win32",
+      "Dedicated",
+      "iOS"
+    ]
+  }
+  
