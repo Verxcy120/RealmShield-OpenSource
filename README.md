@@ -8,7 +8,6 @@ Welcome to the MCPE Realm Management Bot! This bot helps manage your Minecraft P
 - **Whitelist Management**: Easily manage whitelisted players.
 - **Chat Relay**: Relay messages between Discord and your MCPE realm.
 - **Anti-Spoofing**: Prevent players from spoofing their devices.
-- **Custom Activity Message**: Displays "This Realm Is Protected By Realm Shield" as the bot's activity.
 
 ## Prerequisites
 
