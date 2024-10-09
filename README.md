@@ -17,7 +17,7 @@ Welcome to the MCPE Realm Management Bot! This bot helps manage your Minecraft P
 - A Discord bot account (create one at the [Discord Developer Portal](https://discord.com/developers/applications))
 - Your MCPE realm code
 
-##Bot Verson
+## Bot Verson
 
 Minecraft Verson: 1.21.31
 Bot Verson 1.0.0 Beta
