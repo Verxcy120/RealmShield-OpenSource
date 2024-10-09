@@ -1,3 +1,5 @@
+[Support Server](https://discord.gg/cH2brPWvw3)
+
 # MCPE Realm Management Bot
 
 Welcome to the MCPE Realm Management Bot! This bot helps manage your Minecraft Pocket Edition (MCPE) realm with features like device banning, whitelisting, and chat relay. It includes anti-spoofing capabilities to enhance security.
@@ -15,4 +17,3 @@ Welcome to the MCPE Realm Management Bot! This bot helps manage your Minecraft P
 - A Discord bot account (create one at the [Discord Developer Portal](https://discord.com/developers/applications))
 - Your MCPE realm code
 
-[Support Server](https://discord.gg/cH2brPWvw3)
