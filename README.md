@@ -1,4 +1,4 @@
-[Support Server](https://discord.gg/cH2brPWvw3)
+Join this if you need Support [Support Server](https://discord.gg/cH2brPWvw3)
 
 # MCPE Realm Management Bot
 
@@ -16,4 +16,9 @@ Welcome to the MCPE Realm Management Bot! This bot helps manage your Minecraft P
 - [Node.js](https://nodejs.org/en/) (version 16 or higher)
 - A Discord bot account (create one at the [Discord Developer Portal](https://discord.com/developers/applications))
 - Your MCPE realm code
+
+##Bot Verson
+
+Minecraft Verson: 1.21.31
+Bot Verson 1.0.0 Beta
 
