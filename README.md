@@ -19,6 +19,6 @@ Welcome to the MCPE Realm Management Bot! This bot helps manage your Minecraft P
 
 ## Bot Verson
 
-Minecraft Verson: 1.21.31
-Bot Verson 1.0.0 Beta
+- **Minecraft Verson: 1.21.31**
+- **Bot Verson 1.0.0 Beta**
 
