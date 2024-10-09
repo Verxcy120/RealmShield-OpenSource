@@ -16,12 +16,4 @@ Welcome to the MCPE Realm Management Bot! This bot helps manage your Minecraft P
 - A Discord bot account (create one at the [Discord Developer Portal](https://discord.com/developers/applications))
 - Your MCPE realm code
 
-## Installation
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/my-mcpe-bot.git
-   cd my-mcpe-bot
-
-Support Server https://discord.gg/cH2brPWvw3
+[Support Server](https://discord.gg/cH2brPWvw3)
