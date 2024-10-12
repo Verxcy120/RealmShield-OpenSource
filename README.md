@@ -6,8 +6,8 @@ Welcome to the MCPE Realm Management Bot! This bot helps manage your Minecraft P
 
 ## Features
 
-- **Device Management**: Ban and unban devices used by players to enhance realm security.
-- **Whitelist Management**: Easily manage whitelisted players.
+- **Device Management**: Ban and unban devices used by players to enhance realm security. this is comming soon as a command
+- **Whitelist Management**: Easily manage whitelisted players. this is comming soon as a command
 - **Chat Relay**: Relay messages between Discord and your MCPE realm.
 - **Anti-Spoofing**: Prevent players from spoofing their devices.
 
@@ -20,5 +20,6 @@ Welcome to the MCPE Realm Management Bot! This bot helps manage your Minecraft P
 ## Bot Verson
 
 - **Minecraft Verson: 1.21.31**
-- **Bot Verson 1.0.0 Beta**
+- **Bot Verson 1.0.1 Beta**
+
 
