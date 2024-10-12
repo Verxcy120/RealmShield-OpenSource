@@ -1,0 +1,33 @@
+{
+    "botToken": "Your bot Token",
+    "clientId": "you bots client ID", 
+    "username": "Eclipse AC",
+    "realms": [
+        {
+            "realmName": "Your Realm Name",
+            "realmCode": "your realm code",
+            "logChannels": {
+                "chat": "Chat log",
+                "kicks": "Kick logs",
+                "joinsAndLeaves": "Join and leave logs"
+            },
+            "modules": {
+                "deviceFilter": true
+            }
+        }
+    ],
+    "admins": [
+        "Your ID"
+    ],
+    "whitelist": [
+        "Your Bot IGN"
+    ],
+    "bannedDevices": [
+        "Windows",
+        "Android",
+        "WindowsPhone",
+        "Win32",
+        "Dedicated",
+        "iOS"
+    ]
+}

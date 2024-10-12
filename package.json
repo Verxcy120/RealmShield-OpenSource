@@ -1,0 +1,34 @@
+{
+  "name": "uniqueshield-opensource",
+  "version": "1.0.0",
+  "description": "An open-sourced version of UniqueShield, Produced by hermetic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BUSHY648/UniqueShield-OpenSource.git"
+  },
+  "keywords": [
+    "minecraft",
+    "realm",
+    "realms",
+    "automod",
+    "bot"
+  ],
+  "author": "hermetic.",
+  "license": "CC BY-NC",
+  "bugs": {
+    "url": "https://github.com/BUSHY648/UniqueShield-OpenSource/issues"
+  },
+  "homepage": "https://github.com/BUSHY648/UniqueShield-OpenSource#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "bedrock-protocol": "^3.34.0",
+    "colors": "^1.4.0",
+    "discord.js": "^14.14.1",
+    "prismarine-auth": "^2.4.1",
+    "uuid": "^9.0.1"
+  }
+}
