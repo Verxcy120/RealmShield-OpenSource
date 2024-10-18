@@ -1,4 +1,4 @@
-#RealmShield: The Ultimate Minecraft Realm Protection Bot 🛡️
+#RealmShield: The Ultimate Minecraft Realm Protection Bot 🛡️#
 
 RealmShield is a powerful Discord bot designed to protect your Minecraft Realm from griefers, hackers, and spammers. It provides seamless integration between Discord and your Minecraft realm, offering powerful moderation tools, automated anti-grief features, and real-time logging.
 
