@@ -1,25 +1,20 @@
-Join this if you need Support [Support Server](https://discord.gg/cH2brPWvw3)
+#RealmShield: The Ultimate Minecraft Realm Protection Bot 🛡️
 
-# MCPE Realm Management Bot
+RealmShield is a powerful Discord bot designed to protect your Minecraft Realm from griefers, hackers, and spammers. It provides seamless integration between Discord and your Minecraft realm, offering powerful moderation tools, automated anti-grief features, and real-time logging.
 
-Welcome to the MCPE Realm Management Bot! This bot helps manage your Minecraft Pocket Edition (MCPE) realm with features like device banning, whitelisting, and chat relay. It includes anti-spoofing capabilities to enhance security.
+#Features
+🔨 Ban and Unban Players: Instantly ban or unban players from your realm with simple Discord commands.
+📝 Whitelist Management: Easily manage your realm's whitelist with commands to add, remove, or view players.
+🗣️ Chat Logging: Get real-time chat logs from your realm delivered straight to your Discord server.
+🚪 Join/Leave Logs: Track when players join or leave your realm, with notifications sent to a designated Discord channel.
+🚫 Device Filtering: Automatically detect and kick players using banned devices.
+🛑 Spam Detection: Detect spamming and automatically kick players who flood the chat.
+Commands
 
-## Features
-
-- **Device Management**: Ban and unban devices used by players to enhance realm security. this is comming soon as a command
-- **Whitelist Management**: Easily manage whitelisted players. this is comming soon as a command
-- **Chat Relay**: Relay messages between Discord and your MCPE realm.
-- **Anti-Spoofing**: Prevent players from spoofing their devices.
-
-## Prerequisites
-
-- [Node.js](https://nodejs.org/en/) (version 16 or higher)
-- A Discord bot account (create one at the [Discord Developer Portal](https://discord.com/developers/applications))
-- Your MCPE realm code
-
-## Bot Verson
-
-- **Minecraft Verson: 1.21.31**
-- **Bot Verson 1.0.1 Beta**
-
-
+#Realm Management
+/realm ban <player>: Ban a player from your realm.
+/realm unban <player>: Unban a player from your realm.
+Whitelist Management
+/whitelist add <player>: Add a player to the whitelist.
+/whitelist remove <player>: Remove a player from the whitelist.
+/whitelist list: Display the list of whitelisted players.
