@@ -1,14 +1,14 @@
 {
-  "name": "uniqueshield-opensource",
-  "version": "1.0.0",
-  "description": "An open-sourced version of UniqueShield, Produced by hermetic.",
+  "name": "RealmShield-opensource",
+  "version": "1.0.1",
+  "description": "Realmshield-opensource",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BUSHY648/UniqueShield-OpenSource.git"
+    "url": ""
   },
   "keywords": [
     "minecraft",
