@@ -38,4 +38,9 @@ Commands
 Support Server https://discord.gg/cH2brPWvw3
 -
 Bot Verson 1.0.1
-this bot supports 1.21.31
+this bot supports 1.21.44
+-
+CREDIT
+
+Herm
+ip_atomic
