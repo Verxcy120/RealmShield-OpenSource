@@ -42,5 +42,6 @@ this bot supports 1.21.44
 -
 CREDIT
 
-Herm
-ip_atomic
+Herm (the bots base code)
+-----
+ip_atomic (Anti Spoof detection)
