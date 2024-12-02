@@ -1,1 +1,0 @@
-consloe.log("Hello")
