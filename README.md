@@ -1,3 +1,3 @@
 Support Server
 -------------------
-https:discord.gg/gttQqUtrYJ
+https://discord.gg/gttQqUtrYJ
