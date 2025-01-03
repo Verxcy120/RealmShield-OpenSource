@@ -8,7 +8,7 @@ Features
 | Self hosted                                | ✅                      | ❌                                   |
 | Anti Crasher                               | ✅                      | ✅                                   |
 | Under 800ms Authentication speeds          | ✅                      | ✅                                   |
-| Modular Auth to prevent rate limits        | ⚠️                      | ✅                                   |
+| Detects Most Crash/Spam Bots               | ⚠️                      | ✅                                   |
 | 99.99% uptime                              | ✅                      | ✅                                   |
 | Realm manager built in                     | ⚠️                      | ✅                                   |
 | Realm to discord                           | ✅                      | ✅                                   |
