@@ -24,3 +24,7 @@ Features
 Support Server
 -------------------
 https://discord.gg/gttQqUtrYJ
+
+Devolpers Of Realm Shield
+-------------------
+- Verxcy (main ) - Herm (Bot's Base) - ip_atomic (anti device spoofer)
