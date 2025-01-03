@@ -16,6 +16,11 @@ Features
 | Global ban Database                        | ✅                      | ✅                                   |
 
 
+-------------------
+✅: Yes It does have it
+⚠️: Maybe Coming Soon!
+❌: No it Does Not Have this Yet or never!
+
 Support Server
 -------------------
 https://discord.gg/gttQqUtrYJ
