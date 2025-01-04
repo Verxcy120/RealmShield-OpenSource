@@ -1,4 +1,7 @@
 
+
+Realm Shield was been discutuned -1/4/25
+---------------------------------------------------------------------------------------------------------------------
 Features
 | **Realm ShieldV2.0.0**                     | ⚡RealmShield Open Src  |  Realm Shield AC ⚡ 
 | ------------------------------------------ | ----------------------- | ------------------------------------- |
@@ -12,8 +15,8 @@ Features
 | 99.99% uptime                              | ✅                      | ✅                                   |
 | Realm manager built in                     | ⚠️                      | ✅                                   |
 | Realm to discord                           | ✅                      | ✅                                   |
-| AI Auth support                            | ❌                      | ⚠️                                   |
-| Global ban Database                        | ✅                      | ✅                                   |
+| Free Discord Support                       | ✅                      | ✅                                   |
+| Global ban Database                        | ⚠️                      | ✅                                   |
 
 
 -------------------
